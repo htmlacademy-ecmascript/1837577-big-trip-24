@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Алексей Белецкий](https://up.htmlacademy.ru/ecmascript/24/user/1837577).
-* Наставник: `Неизвестно`.
+* Наставник: [Юлия Волкова](https://htmlacademy.ru/profile/julie_volkova).
 
 ---
 
